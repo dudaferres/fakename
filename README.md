@@ -29,3 +29,9 @@ console.log(fakename());
 
 ### Observações
 Este módulo foi desenvolvido para garantir compatibilidade com codificação UTF-8, permitindo o uso adequado de caracteres acentuados presentes nos nomes em português.
+
+## Autor
+
+- Gabriela Queiroga Cocuzza da Silva RM: 560035
+- Julia Sayuri Yokoo RM: 560541
+- Maria Eduarda Ferrés RM: 560418
